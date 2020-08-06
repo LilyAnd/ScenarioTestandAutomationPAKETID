@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>consists of:
+- invalid email address
+- invalid phone number</description>
+   <name>Invalid Request Demo (the phone number is not numeric characters)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>510020e7-a538-44b8-86a9-5edfbb98e3b6</testCaseGuid>
+</TestCaseEntity>

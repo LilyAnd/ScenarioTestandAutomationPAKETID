@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Invalid Request Demo (the phone number is a combination of numeric characters and non-numeric characters)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84daf597-64d0-4c1b-8617-17811f591cd7</testCaseGuid>
+</TestCaseEntity>

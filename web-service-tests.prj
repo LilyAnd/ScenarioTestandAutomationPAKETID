@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>web-service-tests</name>
+   <name>Skenario Test dan Automation PAKET ID</name>
    <tag></tag>
-   <UUID>4944de0d-f865-41c5-8f26-b7e143c3a65a</UUID>
+   <UUID>85e7f92c-8ef6-4927-92cc-e796af4d2ed0</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/user/Katalon Studio/Sample API Test Project/web-service-tests.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
